@@ -33,6 +33,6 @@ Graduate of John Jay college of Criminal Justice with a major in bachelor scienc
 
 
 ### Top Repositories!
-<b>Top Repositories</b>
+
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
