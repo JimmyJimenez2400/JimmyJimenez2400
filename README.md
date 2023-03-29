@@ -4,8 +4,6 @@ Hi 👋 My name is Jimmy Jimenez
 Web Developer (Front-End)
 -------------------------
 
-Graduate of John Jay college of Criminal Justice with a major in bachelor science of Computer Science and Information Security. Learning Web Development began in sophomore year of college. Recommended by a friend, I took interest in it and started my journey from learning HTML to CSS to Javascript and Python. Attend a bootcamp which gave me the opportunity to learn and as well an internship.
-
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [jimmyjimenez24000@gmail.com](mailto:jimmyjimenez24000@gmail.com)
 * 🧠  I'm learning Javascript
